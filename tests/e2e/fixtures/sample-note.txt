@@ -1,0 +1,1 @@
+Sample lecture note used only by Playwright E2E tests.
